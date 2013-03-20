@@ -41,12 +41,6 @@
     </dependencies>
     <repositories>
         <repository>
-            <id>AWS</id>
-            <name>AWS</name>
-            <url>http://pellucidanalytics.github.com/aws/repository/</url>
-            <layout>default</layout>
-        </repository>
-        <repository>
             <id>typesafe</id>
             <name>typesafe</name>
             <url>http://repo.typesafe.com/typesafe/releases/</url>
