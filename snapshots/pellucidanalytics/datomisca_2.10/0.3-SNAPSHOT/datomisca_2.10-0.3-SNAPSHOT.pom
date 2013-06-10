@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.datomic</groupId>
             <artifactId>datomic-free</artifactId>
-            <version>0.8.3814</version>
+            <version>0.8.3993</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
